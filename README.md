@@ -58,7 +58,14 @@
  
  ```
  //代码块
- \```
- \```
+ //```javascript //不同语言配置颜色
+   var a = 10
+   var b = 20
+   var sum = a + b
+ //```
  hahah
+ ```javascript
+   var a = 10
+   var b = 20
+   var sum = a + b
  ```
