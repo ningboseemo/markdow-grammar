@@ -40,16 +40,13 @@
 
 ```
 //多行引用
-> hello world
+> hello world <br>
  hello world
- hello world
- //或者
- > hello world
- >hello world
- >hello world
+ >> hello world
+ >>> hello world
  ```
- > hello world
-hello world
+ > hello world <br>
+ hello world
  >> hello world
  >>> hello world
  
