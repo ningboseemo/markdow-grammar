@@ -71,3 +71,10 @@
    var b = 20
    var sum = a + b
  ```
+ 
+脚本标注
+```
+[^keuwprd]
+节省空间[^footnode1]来用
+```
+节省空间[^footnode1]来用
